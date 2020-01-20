@@ -1,7 +1,5 @@
 # Diandi Chen
 
-Her Cyber-Nest
-
 ![avatar](./avatar.jpg)
 
 
@@ -12,4 +10,4 @@ Her Cyber-Nest
 
 
 
-> Made with :heart:
+> Her Cyber-Nest, Made with :heart:
