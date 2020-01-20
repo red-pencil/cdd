@@ -1,6 +1,9 @@
 # Diandi Chen
 
 
+![avatar](./avatar.jpg)
+
+
 
 - Girl from China
 - UX Designer
