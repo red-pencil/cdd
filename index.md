@@ -1,4 +1,5 @@
-# Diandi Chen
+# 陈点滴
+## Diandi Chen
 
 ![avatar](./avatar.jpg)
 
